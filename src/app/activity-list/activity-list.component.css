@@ -1,0 +1,40 @@
+.row-runs{
+    background-color: #fff;
+    padding: 10px 32px;
+  }
+  
+  td{
+    font-size: 1.4em;
+  }
+  
+  table>tbody>tr:hover{
+    background-color: rgb(154, 219, 175);
+  }
+  
+  td > a{
+    color: rgba(5, 145, 12, 0.842);
+  }
+  
+  td > a:hover{
+    text-decoration: none;
+    color: rgb(76, 243, 10);
+  }
+  
+  hr{
+    border-color: black;
+  }
+  
+  .summary{
+    font-size: 1.4em;
+  }
+  
+  .heading{
+    font-family: 'fantasy';
+  }
+  
+  .totals{
+    display: inline;
+    font-family: 'fantasy';
+    color:black;
+    margin: 2px;
+  }
